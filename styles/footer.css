@@ -1,0 +1,124 @@
+@font-face {
+    font-family: 'MyWebFont';
+    src:  url('../public/fonts/Gustavo-Bold.woff2') format('woff2');
+}
+
+.footer-section {
+    background-color: #8D8D88;
+    background-color: #262626;
+  /*   border-top-right-radius: 80px;
+    border-top-left-radius: 80px; */
+    position: relative;
+    z-index: 0;
+    width: 100%;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center top;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.negocio{
+    color: blue;
+}
+
+.inline{
+    font-size: 3rem;
+    width: 70%;
+}
+
+.titulo-empresa{
+    font-family: 'MyWebFont' !important;
+    color:azure;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 75em;
+}
+
+.footer-links {
+    float: left;
+}
+
+.text-icon-footer {
+    margin-left: 10px;
+}
+
+.icon-footer {
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.icon-footer-face {
+    color: white;
+}
+
+.icon-footer-inst {
+    color: white;
+}
+
+.icon-footer-linkedin {
+    color: white;
+}
+
+.icon-footer-face:hover {
+    color: #244df2;
+}
+
+.icon-footer-inst:hover {
+    color: #ff005c;
+}
+
+.icon-footer-linkedin:hover {
+    color: #244df2;
+}
+
+.footer-up{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.footer-down{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 35%;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.rowsFooter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.imagesRow{
+    justify-content: center;
+    align-items: center;
+}
+
+.social-network{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.swf{
+    font-size: 3rem;
+    position: relative;
+    left: 75px;
+    color: #FFFFFF;
+}
+
+.swfCol{
+    display: flex;
+    justify-content: center;
+}

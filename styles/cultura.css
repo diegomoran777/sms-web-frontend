@@ -1,0 +1,23 @@
+.cultura-img {
+    border-radius: 20px 0px 20px 0px;
+}
+
+.section-cultura{
+    padding-top: 1%;
+    width: 100%;
+    height: 600px;
+ /* background-image: url('../public/images/4-100.jpg'); */
+    
+}
+
+.section-cultura-gris{
+    padding-top: 1%;
+    width: 100%;
+    height: 62.5em;
+    background:#202020;   
+}
+
+.section-cultura-gris > .container{
+    position: relative;
+    top: 10%;
+}

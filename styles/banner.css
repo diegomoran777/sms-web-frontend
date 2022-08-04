@@ -1,0 +1,8 @@
+.banner-section {
+   background-color: #262626;
+    /* background-image: url('../public/images/1-100.jpg');  */
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    /* box-shadow: 5px 11px 23px rgb(33 33 33 / 62%); */
+    box-shadow: rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+}
