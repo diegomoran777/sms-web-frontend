@@ -1,4 +1,5 @@
 import logo from './logoSMS.png';
+import logoiso from './logoiso.png';
 
 
-export default [logo, logo];
+export default [logo, logoiso];
