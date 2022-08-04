@@ -14,7 +14,7 @@ const Index = () => {
 
   useEffect(() => {
 
-    document.body.style.backgroundImage='url(/images/fondo7.png)'
+    document.body.style.backgroundImage='url(/images/fondo9.png)'
    /* document.body.style.background='#2c5364'  W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   });
 
