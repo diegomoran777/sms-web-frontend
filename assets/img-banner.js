@@ -1,3 +1,3 @@
-import img21 from './banner2.png';
+import img21 from './cell.png';
 
 export default [img21];
